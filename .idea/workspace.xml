@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ddfb7f5-2b31-4779-bfed-033a411b0aba" name="Changes" comment="">
+    <list default="true" id="2ddfb7f5-2b31-4779-bfed-033a411b0aba" name="Changes" comment="Создание проекта и гит репозитория для гугл-калькулятора">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/google/calculator/BaseSeleniumPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/google/calculator/BaseSelenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/google/calculator/BaseSeleniumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/google/calculator/CalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/google/calculator/CalcTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/google/calculator/GooglePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/google/calculator/GooglePage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
