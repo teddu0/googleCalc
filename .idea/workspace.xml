@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ddfb7f5-2b31-4779-bfed-033a411b0aba" name="Changes" comment="Создание проекта и гит репозитория для гугл-калькулятора">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/google/calculator/BaseSeleniumPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/google/calculator/BaseSelenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/google/calculator/BaseSeleniumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/google/calculator/CalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/google/calculator/CalcTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/google/calculator/GooglePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/google/calculator/GooglePage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +103,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c95a7937-7006-490a-8164-bb7fc7797780" name="Changes" comment="" />
+      <changelist id="2ddfb7f5-2b31-4779-bfed-033a411b0aba" name="Changes" comment="Создание проекта и гит репозитория для гугл-калькулятора" />
       <created>1655394725788</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
