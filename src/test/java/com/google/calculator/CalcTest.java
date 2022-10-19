@@ -14,6 +14,6 @@ public class CalcTest extends BaseSeleniumTest {
         g.fillSearchField("calculator");
         g.typeCalcButtons();
         g.getResult();
-        Thread.sleep(4000);//поставил слипы просто для того, что успеть увидеть результат
+       // Thread.sleep(4000);//поставил слипы просто для того, что успеть увидеть результат
     }
 }
